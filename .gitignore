@@ -1,0 +1,6 @@
+build
+.gradle
+.idea
+inputs
+actual.txt
+test.txt
